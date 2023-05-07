@@ -1,0 +1,18 @@
+﻿  Source.cpp
+D:\Graphics\lab3\Source.cpp(75,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Graphics\lab3\Source.cpp(74,8): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Graphics\lab3\Source.cpp(73,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Graphics\lab3\Source.cpp(78,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Graphics\lab3\Source.cpp(77,8): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Graphics\lab3\Source.cpp(76,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Graphics\lab3\Source.cpp(87,48): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Graphics\lab3\Source.cpp(86,9): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Graphics\lab3\Source.cpp(85,57): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Graphics\lab3\Source.cpp(90,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Graphics\lab3\Source.cpp(89,9): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Graphics\lab3\Source.cpp(88,51): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\Graphics\lab3\Source.cpp(108,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Graphics\lab3\Source.cpp(111,12): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Graphics\lab3\Source.cpp(136,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Graphics\lab3\Source.cpp(143,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  lab3.vcxproj -> D:\Graphics\lab3\Debug\lab3.exe
